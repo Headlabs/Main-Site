@@ -7,3 +7,10 @@ get '/' do
   slim :index
 end
 
+get '/skills' do
+  slim :skills
+end
+
+get '/read' do
+  slim :read
+end
