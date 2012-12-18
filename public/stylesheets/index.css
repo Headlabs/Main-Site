@@ -1,18 +1,27 @@
 /* Necessary Additions */
-.center {text-align: center;}
 
+.center {text-align: center;}
+li {list-style-type: none;}
 
 /* Header */
 
 .title { margin-bottom: 0px; }
 
-.quote { margin-top: 0px;}
+.quote { 
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #999999;
+}
 
 
 /* intro */
-
 .intro { margin-top: 25%; }
 
+/* Skills */
+.skills-box {margin-top:15%;}
+  
+/* Read */
 
 /* Nav Bar */
 dd a { 
@@ -35,12 +44,14 @@ dd:hover a {
 html, body {
   height: 100%;
 }
+
 .wrapper {
   min-height: 100%;
   height: auto !important;
   height: 100%;
   margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
 }
+
 .footer, .push {
   height: 100px; /* .push must be the same height as .footer */
 }
