@@ -1,0 +1,37 @@
+/* Necessary Additions */
+.center {text-align: center;}
+
+
+/* Header */
+
+.title { margin-bottom: 0px; }
+
+.quote { margin-top: 0px;}
+
+
+/* intro */
+
+.intro {
+  margin-top: 20%;
+  margin-bottom: 20%;
+  max-height:40%;
+  height: 40%;
+  min-height: 40%;
+}
+
+/* Nav Bar */
+dd a { 
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight:bold;
+}
+
+dd:hover a { 
+    background: none repeat scroll 0 0 red;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding-top: 3px; 
+    padding-bottom: 3px;
+  }
+  
+
