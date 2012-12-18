@@ -11,18 +11,13 @@
 
 /* intro */
 
-.intro {
-  margin-top: 20%;
-  margin-bottom: 20%;
-  max-height:40%;
-  height: 40%;
-  min-height: 40%;
-}
+.intro { margin-top: 25%; }
+
 
 /* Nav Bar */
 dd a { 
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
   font-weight:bold;
 }
 
@@ -35,3 +30,17 @@ dd:hover a {
   }
   
 
+/* Footer */
+
+html, body {
+  height: 100%;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+  height: 100px; /* .push must be the same height as .footer */
+}

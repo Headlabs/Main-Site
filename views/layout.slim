@@ -11,5 +11,24 @@ html
     /[if lt IE 9]
       script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
   body
-    == yield
+	div.wrapper
+      div.row.center
+        div.twelve.columns
+          h1.title Jason Tanner
+        div.twelve.columns
+  	      h3.quote
+  	        small A quote here. 
+      == yield
+
+      div.push  	    
+
+    footer.row.footer.center
+      dl.sub-nav.four.columns.offset-by-four
+        dd.active
+          a href="/" Me
+        dd
+          a href="/skills" Skills
+        dd
+          a href="/read" Read/Studied
+
 	<script src="/javascripts/index.js" type="text/javascript"></script> 
