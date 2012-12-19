@@ -1,57 +1,71 @@
-/* Necessary Additions */
+/* General Changes */
+  .center {text-align: center;}
+  
+  li {list-style-type: none;}
+  
 
-.center {text-align: center;}
-li {list-style-type: none;}
 
 /* Header */
+  .title { margin-bottom: 0px; }
+  
+  .quote { 
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #999999;
+  }
 
-.title { margin-bottom: 0px; }
 
-.quote { 
-  margin-top: 10px;
-  font-size: 14px;
-  line-height: 20px;
-  color: #999999;
-}
+/* Intro */
+  .intro { margin-top: 22%; }
+  
 
 
-/* intro */
-.intro { margin-top: 25%; }
 
 /* Skills */
-.skills-box {margin-top:15%;}
+  .skills-box {margin-top:12%;}
+  
+  li {font-size: 16px;}
+    
+  li a:hover {text-decoration:underline;} 
+    
   
 /* Read */
+  table.columns { padding: 0px; }
+  
+  td a:hover {text-decoration:underline;} 
+
 
 /* Nav Bar */
-dd a { 
-  padding-left: 20px;
-  padding-right: 20px;
-  font-weight:bold;
-}
-
-dd:hover a { 
-    background: none repeat scroll 0 0 red;
-    color: #FFFFFF;
-    cursor: pointer;
-    padding-top: 3px; 
-    padding-bottom: 3px;
+  dd a { 
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight:bold;
   }
-  
+
+  dd:hover a { 
+      background: none repeat scroll 0 0 red;
+      color: #FFFFFF;
+      cursor: pointer;
+      padding-top: 3px; 
+      padding-bottom: 3px;
+    }
+    
+
 
 /* Footer */
-
-html, body {
-  height: 100%;
-}
-
-.wrapper {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
-}
-
-.footer, .push {
-  height: 100px; /* .push must be the same height as .footer */
-}
+  
+  html, body {
+    height: 100%;
+  }
+  
+  .wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
+  }
+  
+  .footer, .push {
+    height: 100px; /* .push must be the same height as .footer */
+  }
