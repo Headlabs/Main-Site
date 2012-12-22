@@ -5,13 +5,16 @@
   
   body {
     background-color: #964b4b;
-    background-image: url("../images/stripe3.png");
+    background-image: url("../images/stripe8.png");
     }
+
+  :focus {outline:none;}
+  ::-moz-focus-inner {border:0;}
 
 /* Header */
   .title { 
     margin-bottom: 0px; 
-
+font-family: 'Molengo', sans-serif;
     }
   
   .quote { 
@@ -39,8 +42,19 @@
 /* Read */
   table.columns { padding: 0px; }
   
-  td a:hover {text-decoration:underline;} 
+  td a:hover {text-decoration:none;} 
 
+  table a {color: black}
+
+  table a:hover {color: black; }
+
+
+/* MISC */
+  .misc-box {margin-top: 12%;}
+
+  li {font-size: 16px;}
+    
+  li a:hover {text-decoration:underline;} 
 
 /* Nav Bar */
   dd a { 
