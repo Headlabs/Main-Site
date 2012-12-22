@@ -14,3 +14,8 @@ end
 get '/read' do
   slim :read
 end
+  
+get '/misc' do
+  slim :misc  
+end
+
