@@ -5,29 +5,36 @@
   
   body {
     background-color: #964b4b;
-    background-image: url("../images/stripe8.png");
+
     }
 
   :focus {outline:none;}
   ::-moz-focus-inner {border:0;}
 
 /* Header */
+  .header-box { border-bottom: solid 2px black }
+
   .title { 
-    margin-bottom: 0px; 
-font-family: 'Molengo', sans-serif;
+    margin-bottom: 10px; 
+    font-family: 'Molengo', sans-serif;
     }
   
   .quote { 
     margin-top: 10px;
     font-size: 14px;
     line-height: 20px;
-
+    margin-bottom: 20px;
+    font-family: 'Molengo', sans-serif;
+    text-shadow: 0px 0px 5px #fff;
+    font-weight: bold;
   }
 
+  .header {     background-image: url("../images/stripe1.png"); }
 
 /* Intro */
-  .intro { margin-top: 22%; }
-  
+  .intro { margin-top: 35%; }
+
+  .heavy { font-weight: 600; }  
 
 
 
@@ -40,6 +47,9 @@ font-family: 'Molengo', sans-serif;
     
   
 /* Read */
+
+  table {margin-top: 10px;}
+
   table.columns { padding: 0px; }
   
   td a:hover {text-decoration:none;} 
@@ -61,7 +71,7 @@ font-family: 'Molengo', sans-serif;
     padding-left: 20px;
     padding-right: 20px;
     font-weight:bold;
-    text-transform: uppercase;
+
     text-shadow: 0px 0px 5px #fff;
     letter-spacing: 1px;
     -webkit-transition: all 0.3s ease-in-out;
