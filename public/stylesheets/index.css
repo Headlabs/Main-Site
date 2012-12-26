@@ -12,7 +12,7 @@
   ::-moz-focus-inner {border:0;}
 
 /* Header */
-  .header-box { border-bottom: solid 2px black }
+  .header-box { border-bottom: solid 2px black; }
 
   .title { 
     margin-bottom: 10px; 
