@@ -1,13 +1,12 @@
 /* General Changes */
-  .center {text-align: center;}
+  .center { text-align: center; }
   
-  li {list-style-type: none;}
+  li { list-style-type: none; }
   
-  body {
-    background-color: #964b4b;
+  body { background-color: #964b4b; }
 
-    }
 
+  /* gets rid of moz border outline on click */
   :focus {outline:none;}
   ::-moz-focus-inner {border:0;}
 
@@ -16,7 +15,7 @@
 
   .title { 
     margin-bottom: 10px; 
-    font-family: 'Molengo', sans-serif;
+
     }
   
   .quote { 
@@ -24,7 +23,6 @@
     font-size: 14px;
     line-height: 20px;
     margin-bottom: 20px;
-    font-family: 'Molengo', sans-serif;
     text-shadow: 0px 0px 5px #fff;
     font-weight: bold;
   }
@@ -68,10 +66,11 @@
 
 /* Nav Bar */
   dd a { 
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 29px;
+    padding-right: 29px;
     font-weight:bold;
 
+    /* This sets up the blur effect on each nav link */    
     text-shadow: 0px 0px 5px #fff;
     letter-spacing: 1px;
     -webkit-transition: all 0.3s ease-in-out;
@@ -81,6 +80,7 @@
     transition: all 0.3s ease-in-out;
   }
 
+  /* Continuation of blur effect */
   dd:hover a { 
       background: none repeat scroll 0 0 #964b4b;
       color: #FFFFFF;
@@ -88,8 +88,7 @@
       padding-top: 3px; 
       padding-bottom: 3px;
       text-shadow: 0px 0px 1px #fff;
-
-    }
+  }
     
 
 
