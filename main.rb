@@ -15,3 +15,10 @@ get '/misc' do
   slim :misc  
 end
 
+get '/wintria' do
+  slim :wintria
+end
+
+get '/icons' do
+  slim :icons
+end
