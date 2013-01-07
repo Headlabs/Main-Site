@@ -3,7 +3,7 @@
   height:400px;
   position:relative;
   top: 50px;
-  left: 40px;
+  left: 399px;
 }
 
 .main{
@@ -14,7 +14,7 @@
    border-radius: 380px;
    position: absolute;
    top: -47px;
-   left: 17px; 
+   left: 17px;
    z-index:1;
 }
 

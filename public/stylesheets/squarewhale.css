@@ -1,6 +1,9 @@
+.the-whale {}
+
+
 .logo {
   position: relative;
-  left: 750px;
+  left: 880px;
   bottom: 150px;
   font-family: 'Oleo Script Swash Caps', cursive;
   font-size: 17px;
@@ -17,7 +20,7 @@
   height: 60px;
   position:relative;
   z-index: 30;
-  left:150px;
+  left:210px;
   bottom: 600px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -30,7 +33,7 @@
   height: 60px;
   position:relative;
   z-index: 30;
-  left:150px;
+  left:210px;
   bottom: 680px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -58,7 +61,7 @@
   height: 600px;
   position: relative;
   top: 0px;
-  left: 150px;
+  left: 210px;
   overflow: hidden;
   border-radius: 10px;
 
@@ -162,8 +165,8 @@
     height: 10px;
     border-bottom-right-radius: 200px 20px;
     position: relative;
-    bottom: 100px;
-    left: 100px;
+    bottom: 94px;
+    left: 160px;
     z-index: 3;
          
     -webkit-transform: translate(100px) rotate(5deg);
@@ -185,7 +188,7 @@
       width: 20px;
       position:relative;
       bottom: 133px;
-      left: 280px;
+      left: 340px;
       z-index:3;
   }
 
@@ -197,7 +200,7 @@
       width: 20px;
       position:relative;
       bottom: 515px;
-      left: 280px;
+      left: 340px;
       z-index:3;
   }
 
@@ -210,7 +213,7 @@
     height:130px;
     position: relative;
     bottom: 60px;
-    left: 530px;
+    left: 590px;
  
   }
   
@@ -293,7 +296,7 @@
     height:50px;
     position:relative;
     bottom: 667px;
-    left: 339px;
+    left: 340px;
     border-top-left-radius: 200px 150px;
     border-top-right-radius: 200px 150px;
     z-index: 10; 
@@ -319,7 +322,7 @@
     height:180px;
     position:relative;
     bottom: 300px;
-    left: 540px;
+    left: 600px;
     border-radius: 200px;
     border-top-left-radius: 300px 100px;    
   }
@@ -332,7 +335,7 @@
     height:180px;
     position:relative;
     bottom: 860px;
-    left: 200px;
+    left: 260px;
     
     z-index:10;
     border-radius: 200px;
@@ -359,7 +362,7 @@
     height:20px;
     position:relative;
     bottom: 95px;
-    right: 80px;
+    right: 20px;
     
     border-top-left-radius: 400px 20px;
 
