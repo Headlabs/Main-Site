@@ -3,7 +3,10 @@
   
   li { list-style-type: none; }
   
-  body { background-color: #964b4b; }
+  body {
+    background-color: #964b4b;
+    overflow-x: hidden;
+  }
 
 
   /* gets rid of moz border outline on click */
@@ -41,8 +44,16 @@
   
   li {font-size: 16px;}
     
-  li a:hover {text-decoration:underline;} 
-    
+  li a:hover {text-decoration:underline;}
+
+
+/* Icons */
+
+  .slideshow {
+
+
+  }
+
   
 /* Read */
 
