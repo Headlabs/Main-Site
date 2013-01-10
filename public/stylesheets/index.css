@@ -30,7 +30,7 @@
     font-weight: bold;
   }
 
-  .header {     background-image: url("../images/stripe1.png"); }
+  .header { background-image: url("../images/stripe1.png"); }
 
 /* Intro */
   .intro { margin-top: 35%; }
@@ -64,6 +64,25 @@
   table a {color: black}
 
   table a:hover {color: black; }
+
+
+/* Read Alt */
+
+  .book-navigation {
+    margin-top: 50px;
+
+  }
+
+  .book-navigation a {
+
+    color: #964b4b;
+
+  }
+
+  .panel {
+    margin-top: 20px;
+
+  }
 
 
 /* MISC */

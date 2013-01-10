@@ -19,6 +19,10 @@ get '/wintria' do
   slim :wintria
 end
 
+get '/book' do
+  slim :book
+end
+
 get '/icons' do
   slim :icons
 end
