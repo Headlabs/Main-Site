@@ -1,9 +1,15 @@
-div.row.center
-  h3.twelve.columns.icon-title Icons Made in CSS
 
-div.slideshow
+div#impress
 
-  div.row.lightsaber
+
+  div.row.center.step.slide data-x="1000" data-y="1000"
+    div.row
+      h3.twelve.columns.icon-title Icons Made in CSS
+
+    a.six.columns href="#lightsaber" Lightsaber
+    a.six.columns href="#the-whale" The Narwhal of Wintria
+
+  div.row.lightsaber#lightsaber.step.slide data-x="-1000" data-y="4000"
     div.sword.columns
       div.main
       div.handle
@@ -12,10 +18,9 @@ div.slideshow
       div.switch-white
       div.switch-black
 
-  div.the-whale
+  div#the-whale.step.slide data-x="3000" data-y="2000"
     div.portrait
       div.body
-
       div.tail
       div.horn
         div.horn-line-1
