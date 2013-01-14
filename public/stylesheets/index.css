@@ -13,8 +13,13 @@
   :focus {outline:none;}
   ::-moz-focus-inner {border:0;}
 
+  a { cursor:pointer; }
+
+
+
+
 /* Header */
-  .header-box { border-bottom: solid 2px black; }
+  .header-box { border-bottom: solid 2px #707070; }
 
   .title { 
     margin-bottom: 10px; 
@@ -53,21 +58,8 @@
   .slideshow {max-height: 65%;}
 
   
-/* Read */
-
-  table {margin-top: 10px;}
-
-  table.columns { padding: 0px; }
-  
-  td a:hover {text-decoration:none;} 
-
-  table a {color: black}
-
-  table a:hover {color: black; }
-
 
 /* Read Alt */
-
 
 
   .book-navigation a {
@@ -78,8 +70,41 @@
 
   .panel {
     margin-top: 20px;
+    background-color: transparent;
+    color: white;
+  }
+
+  .back-to-book-navigation-button {
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 3px;
 
   }
+
+  .history-books-selection a {
+    margin-top: 35px;
+    border-right: 1px solid white;
+  }
+
+  .philosophy-books-selection a {
+    margin-top: 35px;
+    border-right: 1px solid white
+  }
+
+  .biography-books-selection a {
+    margin-top: 35px;
+    border-right: 1px solid white
+  }
+  .literature-books-selection a {
+    margin-top: 35px;
+    border-right: 1px solid white
+  }
+
+  .end-of-line {
+    border: none !important;
+  }
+
+
 
 
 /* MISC */
@@ -87,7 +112,15 @@
 
   li {font-size: 16px;}
     
-  li a:hover {text-decoration:underline;} 
+  li a:hover {text-decoration:underline;}
+
+  .more {
+    margin-top: 80px;
+    font-size: 35px;
+    color: white;
+  }
+
+
 
 /* Nav Bar */
   dd a { 

@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/books.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/moustache.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe2.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe3.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe4.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe5.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/book.slim" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.rb" afterPath="$PROJECT_DIR$/main.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/books.js" afterPath="$PROJECT_DIR$/public/javascripts/books.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/index.css" afterPath="$PROJECT_DIR$/public/stylesheets/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/book.slim" afterPath="$PROJECT_DIR$/views/book.slim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.slim" afterPath="$PROJECT_DIR$/views/layout.slim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/misc.slim" afterPath="$PROJECT_DIR$/views/misc.slim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/read.slim" afterPath="$PROJECT_DIR$/views/read.slim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/wintria.slim" afterPath="$PROJECT_DIR$/views/wintria.slim" />
     </list>
     <ignored path="jtme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,38 +34,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wint-custom-37.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/wintria/wint-custom-37.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="287" column="41" selection-start="10476" selection-end="10476" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/layout.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="16" selection-start="1312" selection-end="1312" vertical-scroll-proportion="-21.76">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="book.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/book.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="9" selection-start="22" selection-end="22" vertical-scroll-proportion="-1.28">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="books.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="books.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/javascripts/books.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.01826484">
-              <folding />
+            <state line="21" column="4" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#157#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +48,25 @@
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="0" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
+            <state line="87" column="0" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read.slim" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/read.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="42" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.5608592">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,16 +86,19 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/views/skills.slim" />
-        <option value="$PROJECT_DIR$/main.rb" />
         <option value="$PROJECT_DIR$/public/javascripts/impress.js" />
         <option value="$USER_HOME$/wintria/wint-custom-37.js" />
         <option value="$PROJECT_DIR$/public/javascripts/index.js" />
         <option value="$USER_HOME$/wint-custom-60.js" />
-        <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
         <option value="$PROJECT_DIR$/public/javascripts/moustache.js" />
         <option value="$PROJECT_DIR$/views/layout.slim" />
-        <option value="$PROJECT_DIR$/views/book.slim" />
+        <option value="$PROJECT_DIR$/views/misc.slim" />
         <option value="$PROJECT_DIR$/public/javascripts/books.js" />
+        <option value="$PROJECT_DIR$/views/book.slim" />
+        <option value="$PROJECT_DIR$/main.rb" />
+        <option value="$PROJECT_DIR$/views/wintria.slim" />
+        <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
+        <option value="$PROJECT_DIR$/views/read.slim" />
       </list>
     </option>
   </component>
@@ -136,7 +134,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,6 +218,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,8 +329,8 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23004292" sideWeight="0.96902657" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24978541" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26781115" sideWeight="0.96902657" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -400,36 +398,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/layout.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="61" selection-start="1842" selection-end="1842" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/skills.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="16" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="77" column="18" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/book.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/wint-custom-60.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="286" column="31" selection-start="10723" selection-end="10723" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="202" selection-end="202" vertical-scroll-proportion="0.38356164" />
+        <state line="286" column="31" selection-start="10723" selection-end="10723" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/impress.js">
@@ -456,44 +432,61 @@
     </entry>
     <entry file="file://$USER_HOME$/wint-custom-60.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="7" selection-start="9150" selection-end="9153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="205" column="7" selection-start="9150" selection-end="9153" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/moustache.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="532" column="0" selection-start="14780" selection-end="14780" vertical-scroll-proportion="0.9779838">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="532" column="0" selection-start="14780" selection-end="14780" vertical-scroll-proportion="0.9779838" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="16" selection-start="1312" selection-end="1312" vertical-scroll-proportion="-21.76">
+        <state line="34" column="16" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/book.slim">
+    <entry file="file://$PROJECT_DIR$/views/misc.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="9" selection-start="22" selection-end="22" vertical-scroll-proportion="-1.28">
+        <state line="36" column="50" selection-start="1061" selection-end="1061" vertical-scroll-proportion="-23.04">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/books.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.01826484">
+        <state line="21" column="4" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#157#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/wintria.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="28" selection-start="521" selection-end="521" vertical-scroll-proportion="0.26321974">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="0" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/read.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="42" selection-start="1694" selection-end="1694" vertical-scroll-proportion="0.5608592">
           <folding />
         </state>
       </provider>
