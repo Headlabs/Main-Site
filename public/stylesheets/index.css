@@ -19,7 +19,10 @@
 
 
 /* Header */
-  .header-box { border-bottom: solid 2px #707070; }
+  .header-box {
+    border-bottom: solid 2px #707070;
+    background-image: url("../images/stripe1.png");
+  }
 
   .title { 
     margin-bottom: 10px; 
@@ -35,7 +38,7 @@
     font-weight: bold;
   }
 
-  .header { background-image: url("../images/stripe1.png"); }
+
 
 /* Intro */
   .intro { margin-top: 35%; }
@@ -45,6 +48,7 @@
 
 
 /* Skills */
+
   .skills-box {margin-top:12%;}
   
   li {font-size: 16px;}
@@ -55,11 +59,9 @@
 /* Icons */
 
   .icon-title {margin-bottom: 25%;}
-  .slideshow {max-height: 65%;}
 
-  
 
-/* Read Alt */
+/* Read */
 
 
   .book-navigation a {
@@ -75,10 +77,8 @@
   }
 
   .back-to-book-navigation-button {
-    border: 1px solid white;
     padding: 5px;
     border-radius: 3px;
-
   }
 
   .history-books-selection a {
@@ -108,16 +108,21 @@
 
 
 /* MISC */
-  .misc-box {margin-top: 12%;}
 
   li {font-size: 16px;}
     
   li a:hover {text-decoration:underline;}
 
-  .more {
+  .misc-button {
     margin-top: 80px;
     font-size: 35px;
     color: white;
+    border-radius: 5px;
+  }
+
+  .icon-medium-size {
+    font-size: 30px;
+
   }
 
 
@@ -152,7 +157,7 @@
     
 
 
-/* Icon */
+
 
 
 
@@ -172,3 +177,6 @@
   .footer, .push {
     height: 100px; /* .push must be the same height as .footer */
   }
+
+
+
