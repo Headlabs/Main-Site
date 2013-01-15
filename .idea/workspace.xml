@@ -12,7 +12,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/icon.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/squarewhale.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/views/book.slim" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/social_foundicons.css" afterPath="$PROJECT_DIR$/public/stylesheets/social_foundicons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/index.css" afterPath="$PROJECT_DIR$/public/stylesheets/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.slim" afterPath="$PROJECT_DIR$/views/layout.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/misc.slim" afterPath="$PROJECT_DIR$/views/misc.slim" />
     </list>
@@ -36,25 +36,16 @@
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="17" selection-start="1788" selection-end="1788" vertical-scroll-proportion="-5.451613">
+            <state line="68" column="18" selection-start="939" selection-end="946" vertical-scroll-proportion="-14.741936">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="social_foundicons.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/stylesheets/social_foundicons.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="4" selection-start="490" selection-end="490" vertical-scroll-proportion="-6.4">
+            <state line="12" column="14" selection-start="592" selection-end="592" vertical-scroll-proportion="0.20883055">
               <folding />
             </state>
           </provider>
@@ -69,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="misc.slim" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="misc.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/misc.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="38" selection-start="1296" selection-end="1296" vertical-scroll-proportion="0.46539378">
+            <state line="14" column="68" selection-start="407" selection-end="407" vertical-scroll-proportion="-7.92">
               <folding />
             </state>
           </provider>
@@ -103,10 +94,10 @@
         <option value="$PROJECT_DIR$/public/stylesheets/lightsaber.css" />
         <option value="$PROJECT_DIR$/views/read.slim" />
         <option value="$PROJECT_DIR$/views/icons.slim" />
-        <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
-        <option value="$PROJECT_DIR$/views/layout.slim" />
         <option value="$PROJECT_DIR$/public/stylesheets/social_foundicons.css" />
         <option value="$PROJECT_DIR$/views/misc.slim" />
+        <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
+        <option value="$PROJECT_DIR$/views/layout.slim" />
       </list>
     </option>
   </component>
@@ -203,6 +194,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jtme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jtme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -463,20 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="17" selection-start="1788" selection-end="1788" vertical-scroll-proportion="-5.451613">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="490" selection-end="490" vertical-scroll-proportion="-6.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/icons.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="23" selection-start="106" selection-end="117" vertical-scroll-proportion="-1.7142857">
@@ -484,16 +479,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/social_foundicons.css">
+    <entry file="file://$PROJECT_DIR$/views/misc.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
+        <state line="14" column="68" selection-start="407" selection-end="407" vertical-scroll-proportion="-7.92">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/misc.slim">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/social_foundicons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="38" selection-start="1296" selection-end="1296" vertical-scroll-proportion="0.46539378">
+        <state line="22" column="0" selection-start="665" selection-end="665" vertical-scroll-proportion="0.4078795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="18" selection-start="939" selection-end="946" vertical-scroll-proportion="-14.741936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="14" selection-start="592" selection-end="592" vertical-scroll-proportion="0.20883055">
           <folding />
         </state>
       </provider>
