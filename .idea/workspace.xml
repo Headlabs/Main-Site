@@ -58,19 +58,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skills.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="skills.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/skills.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="8" selection-start="493" selection-end="493" vertical-scroll-proportion="-8.96">
+            <state line="37" column="9" selection-start="922" selection-end="922" vertical-scroll-proportion="0.7064439">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.slim" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="21" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.5417661">
+            <state line="32" column="21" selection-start="1426" selection-end="1426" vertical-scroll-proportion="-18.16">
               <folding />
             </state>
           </provider>
@@ -103,8 +103,8 @@
         <option value="$PROJECT_DIR$/public/stylesheets/social_foundicons.css" />
         <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
         <option value="$PROJECT_DIR$/views/misc.slim" />
-        <option value="$PROJECT_DIR$/views/skills.slim" />
         <option value="$PROJECT_DIR$/views/layout.slim" />
+        <option value="$PROJECT_DIR$/views/skills.slim" />
       </list>
     </option>
   </component>
@@ -473,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/skills.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="493" selection-end="493" vertical-scroll-proportion="-8.96">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/misc.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="33" selection-start="1622" selection-end="1622" vertical-scroll-proportion="-24.56">
@@ -489,7 +482,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="21" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.5417661">
+        <state line="32" column="21" selection-start="1426" selection-end="1426" vertical-scroll-proportion="-18.16">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/skills.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="9" selection-start="922" selection-end="922" vertical-scroll-proportion="0.7064439">
           <folding />
         </state>
       </provider>
