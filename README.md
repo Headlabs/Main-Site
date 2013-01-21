@@ -6,6 +6,7 @@ animation.
 
 
 TODO  
---1. Change out Read/Studied section to something more aesthetically pleasing.--
+<strike>1. Change out Read/Studied section to
+something more aesthetically pleasing.</strike>
 --2. Add a favicon.--
 3. Add more quotes to header.  
