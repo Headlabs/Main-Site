@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/seren.slim" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/simpleng.slim" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/stripe5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/moustache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/foundation.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/icon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/squarewhale.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/book.slim" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.rb" afterPath="$PROJECT_DIR$/main.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/misc.slim" afterPath="$PROJECT_DIR$/views/misc.slim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/skills.slim" afterPath="$PROJECT_DIR$/views/skills.slim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/wintria.slim" afterPath="$PROJECT_DIR$/views/wintria.slim" />
     </list>
     <ignored path="jtme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,7 +60,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="46" selection-start="288" selection-end="288" vertical-scroll-proportion="0.16881594">
+            <state line="7" column="2" selection-start="191" selection-end="191" vertical-scroll-proportion="0.13130128">
               <folding />
             </state>
           </provider>
@@ -551,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="46" selection-start="288" selection-end="288" vertical-scroll-proportion="0.16881594">
+        <state line="7" column="2" selection-start="191" selection-end="191" vertical-scroll-proportion="0.13130128">
           <folding />
         </state>
       </provider>

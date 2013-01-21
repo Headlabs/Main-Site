@@ -5,8 +5,5 @@ and Sinatra for the back-end. I also used ImpressJS for the
 animation.
 
 
-TODO  
-<strike>1. Change out Read/Studied section to
-something more aesthetically pleasing.</strike>
---2. Add a favicon.--
-3. Add more quotes to header.  
+##TODO
+1. Add more quotes to header.
