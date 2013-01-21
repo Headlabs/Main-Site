@@ -17,6 +17,14 @@ end
 
 get '/wintria' do
   slim :wintria
+  end
+
+get '/seren' do
+  slim :seren
+  end
+
+get '/simpleng' do
+  slim :simpleng
 end
 
 get '/icons' do
