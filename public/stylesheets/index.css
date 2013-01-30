@@ -1,4 +1,5 @@
 /* General Changes */
+/* =============== */
   .center { text-align: center; }
   
   li { list-style-type: none; }
@@ -19,6 +20,8 @@
 
 
 /* Header */
+/* ====== */
+
   .header-box {
     border-bottom: solid 2px #707070;
     background-image: url("../images/stripe1.png");
@@ -41,6 +44,8 @@
 
 
 /* Intro */
+/* ====== */
+
   .intro { margin-top: 35%; }
 
   .heavy { font-weight: 600; }  
@@ -48,8 +53,9 @@
 
 
 /* Skills */
+/* ====== */
 
-  .skills-box {margin-top:12%;}
+  /* .skills-box {margin-top:12%;} */
   
   li {font-size: 16px;}
     
@@ -62,7 +68,7 @@
 
 
 /* Read */
-
+/* ===== */
 
   .book-navigation a {
 
@@ -108,6 +114,7 @@
 
 
 /* MISC */
+/* ==== */
 
   li {font-size: 16px;}
     
@@ -129,6 +136,8 @@
 
 
 /* Nav Bar */
+/* ====== */
+
   dd a { 
     padding-left: 29px;
     padding-right: 29px;
@@ -161,6 +170,7 @@
 
 
 /* Footer */
+/* ====== */
   
   html, body {
     height: 100%;
@@ -176,6 +186,3 @@
   .footer, .push {
     height: 100px; /* .push must be the same height as .footer */
   }
-
-
-

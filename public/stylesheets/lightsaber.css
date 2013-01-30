@@ -19,31 +19,28 @@
 }
 
 .handle {
-       width: 100px;
-       height: 20px;
+  width: 100px;
+  height: 20px;
 
-     background: grey;
-     border-radius: 5px;
-    -webkit-transform: translate(100px) rotate(-40deg);
-    -webkit-transform-origin: 60% 100%;
+  background: grey;
+  border-radius: 5px;
+  -webkit-transform: translate(100px) rotate(-40deg);
+  -webkit-transform-origin: 60% 100%;
 
-    -o-transform:translate(100px) rotate(-40deg); 
-    -o-transform-origin:60% 100%;
+  -o-transform:translate(100px) rotate(-40deg);
+  -o-transform-origin:60% 100%;
 
-    transform: translate(100px) rotate(-40deg);
-    transform-origin: 60% 100%;
-  
-    z-index: 2;
-    position: absolute;
-    top:210px;
-    right: 430px;
-  
-  
+  transform: translate(100px) rotate(-40deg);
+  transform-origin: 60% 100%;
+
+  z-index: 2;
+  position: absolute;
+  top:210px;
+  right: 430px;
 }
 
-.diamond-1 { 
-  
-   -webkit-transform: translate(100px) rotate(90deg);
+.diamond-1 {
+  -webkit-transform: translate(100px) rotate(90deg);
   -webkit-transform-origin: 60% 100%;
   
   -o-transform:translate(100px) rotate(50deg); 
@@ -56,123 +53,108 @@
   width: 0; 
   height: 0; 
   border: 7px solid transparent; 
-  border-bottom: 16px solid black; 
-
+  border-bottom: 16px solid black;
  } 
  
  
 .diamond-1:after { 
- content: ''; 
- position: absolute; 
- left: -10px; 
- top: 20px; 
- width: 0; 
- height: 0; 
- border: 7px solid transparent; 
- border-top: 16px solid black; 
+  content: '';
+  position: absolute;
+  left: -10px;
+  top: 20px;
+  width: 0;
+  height: 0;
+  border: 7px solid transparent;
+  border-top: 16px solid black;
  }
 
-
-
-
-
 .handle-grip {
-       width: 50px;
-       height: 20px;
+  width: 50px;
+  height: 20px;
 
-     background: grey;
+  background: grey;
   border-radius: 5px;
-    -webkit-transform: translate(100px) rotate(-40deg);
-    -webkit-transform-origin: 60% 100%;
+  -webkit-transform: translate(100px) rotate(-40deg);
+  -webkit-transform-origin: 60% 100%;
 
-    -o-transform:translate(100px) rotate(-40deg); 
-    -o-transform-origin:60% 100%;
+  -o-transform:translate(100px) rotate(-40deg);
+  -o-transform-origin:60% 100%;
 
-    transform: translate(100px) rotate(-40deg);
-    transform-origin: 60% 100%;
-  
-    z-index: 2;
-    position: absolute;
-    top:510px;
-    right: 430px;
-  
-  
+  transform: translate(100px) rotate(-40deg);
+  transform-origin: 60% 100%;
+
+  z-index: 2;
+  position: absolute;
+  top:510px;
+  right: 430px;
 }
 
 
 
 .handle-cover {
-       width: 28px;
-       height: 10px;
+  width: 28px;
+  height: 10px;
 
-     background: grey;
+  background: grey;
   border-radius: 5px;
-    -webkit-transform: translate(100px) rotate(50deg);
-    -webkit-transform-origin: 60% 100%;
+  -webkit-transform: translate(100px) rotate(50deg);
+  -webkit-transform-origin: 60% 100%;
 
-    -o-transform:translate(100px) rotate(50deg); 
-    -o-transform-origin:60% 100%;
+  -o-transform:translate(100px) rotate(50deg);
+  -o-transform-origin:60% 100%;
 
-    transform: translate(100px) rotate(50deg);
-    transform-origin: 60% 100%;
-  
-    z-index: 3;
-    position: absolute;
-    top:193px;
+  transform: translate(100px) rotate(50deg);
+  transform-origin: 60% 100%;
 
-    right: 438px;
-    border: solid 1px black;
-  
-  
+  z-index: 3;
+  position: absolute;
+  top:193px;
+
+  right: 438px;
+  border: solid 1px black;
 }
 
 .switch-white {
+  -webkit-transform: translate(100px) rotate(50deg);
+  -webkit-transform-origin: 60% 100%;
 
-    -webkit-transform: translate(100px) rotate(50deg);
-    -webkit-transform-origin: 60% 100%;
+  -o-transform:translate(100px) rotate(50deg);
+  -o-transform-origin:60% 100%;
 
-    -o-transform:translate(100px) rotate(50deg); 
-    -o-transform-origin:60% 100%;
+  transform: translate(100px) rotate(50deg);
+  transform-origin: 60% 100%;
 
-    transform: translate(100px) rotate(50deg);
-    transform-origin: 60% 100%;
-
-    z-index: 2;
-    position: absolute;
-    top:   203px;
-    right: 460px;
-    width: 10px;
-    height: 10px;
-    border-radius: 5px;
-    background: white;
-    border: solid 1px black
-
-  
+  z-index: 2;
+  position: absolute;
+  top:   203px;
+  right: 460px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background: white;
+  border: solid 1px black
 }
 
 
 .switch-black {
+  -webkit-transform: translate(100px) rotate(50deg);
+  -webkit-transform-origin: 60% 100%;
 
-    -webkit-transform: translate(100px) rotate(50deg);
-    -webkit-transform-origin: 60% 100%;
+  -o-transform:translate(100px) rotate(50deg);
+  -o-transform-origin:60% 100%;
 
-    -o-transform:translate(100px) rotate(50deg); 
-    -o-transform-origin:60% 100%;
+  transform: translate(100px) rotate(50deg);
+  transform-origin: 60% 100%;
 
-    transform: translate(100px) rotate(50deg);
-    transform-origin: 60% 100%;
-
-    z-index: 2;
-    position: absolute;
-    top:   212px;
-    right: 470px;
-    width: 10px;
-    height: 10px;
-    border-radius: 5px;
-    background: black;
-    border: solid 1px white
-
-  
+  z-index: 2;
+  position: absolute;
+  top:   212px;
+  right: 470px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background: black;
+  border: solid 1px white
 }
 
 
