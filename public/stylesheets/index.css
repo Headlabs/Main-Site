@@ -113,26 +113,6 @@
 
 
 
-/* MISC */
-/* ==== */
-
-  li {font-size: 16px;}
-    
-  li a:hover {text-decoration:underline;}
-
-  #more-section-one li a:hover { text-decoration:none; }
-
-  .misc-button {
-    margin-top: 80px;
-    font-size: 35px;
-    color: white;
-    border-radius: 5px;
-  }
-
-  .icon-medium-size {
-    font-size: 30px;
-  }
-
 
 
 
@@ -184,7 +164,29 @@
     height: 100%;
     margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
   }
-  
+
   .footer, .push {
     height: 100px; /* .push must be the same height as .footer */
   }
+
+
+
+/* MISC */
+/* ==== */
+
+li {font-size: 16px;}
+
+li a:hover {text-decoration:underline;}
+
+#more-section-one li a:hover { text-decoration:none; color: #222 }
+
+.misc-button {
+    margin-top: 80px;
+    font-size: 35px;
+    color: white;
+    border-radius: 5px;
+}
+
+.icon-medium-size {
+    font-size: 30px;
+}

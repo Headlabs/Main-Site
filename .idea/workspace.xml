@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/icon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/index.css" afterPath="$PROJECT_DIR$/public/stylesheets/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/skills.slim" afterPath="$PROJECT_DIR$/views/skills.slim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/icons.slim" afterPath="$PROJECT_DIR$/views/icons.slim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.slim" afterPath="$PROJECT_DIR$/views/layout.slim" />
     </list>
     <ignored path="jtme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,15 +44,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="read.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/read.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="0" selection-start="5409" selection-end="5409" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="misc.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/misc.slim">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,10 +53,96 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="122" column="54" selection-start="1787" selection-end="1787" vertical-scroll-proportion="0.48241207">
+            <state line="166" column="0" selection-start="2589" selection-end="2589" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1360039796000" expanded="true" signature="2607:2678" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icons.slim" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/icons.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="30" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
+              <folding>
+                <marker date="1360040381000" expanded="true" signature="1:1376" placeholder="div#impress" />
+                <marker date="1360040381000" expanded="true" signature="17:275" placeholder="div.row.center.step.slide data-x=&quot;1000&quot; data-y=&quot;1000&quot;" />
+                <marker date="1360040381000" expanded="true" signature="141:202" placeholder="a.six.columns href=&quot;#lightsaber&quot; Lightsaber" />
+                <marker date="1360040381000" expanded="true" signature="207:275" placeholder="a.six.columns href=&quot;#the-whale&quot; The Narwhal of Wintria" />
+                <marker date="1360040381000" expanded="true" signature="278:487" placeholder="div.row.lightsaber#lightsaber.step.slide  data-x=&quot;-1000&quot; data-y=&quot;4000&quot;" />
+                <marker date="1360040381000" expanded="true" signature="353:487" placeholder="div.sword.columns" />
+                <marker date="1360040381000" expanded="true" signature="377:385" placeholder="div.main" />
+                <marker date="1360040381000" expanded="true" signature="392:402" placeholder="div.handle" />
+                <marker date="1360040381000" expanded="true" signature="409:425" placeholder="div.handle-cover" />
+                <marker date="1360040381000" expanded="true" signature="432:441" placeholder="div.blade" />
+                <marker date="1360040381000" expanded="true" signature="448:464" placeholder="div.switch-white" />
+                <marker date="1360040381000" expanded="true" signature="471:487" placeholder="div.switch-black" />
+                <marker date="1360040381000" expanded="true" signature="491:1376" placeholder="div#the-whale.step.slide data-x=&quot;3000&quot; data-y=&quot;2000&quot;" />
+                <marker date="1360040381000" expanded="true" signature="548:1068" placeholder="div.portrait" />
+                <marker date="1360040381000" expanded="true" signature="567:575" placeholder="div.body" />
+                <marker date="1360040381000" expanded="true" signature="582:590" placeholder="div.tail" />
+                <marker date="1360040381000" expanded="true" signature="597:725" placeholder="div.horn" />
+                <marker date="1360040381000" expanded="true" signature="614:629" placeholder="div.horn-line-1" />
+                <marker date="1360040381000" expanded="true" signature="638:653" placeholder="div.horn-line-2" />
+                <marker date="1360040381000" expanded="true" signature="662:677" placeholder="div.horn-line-3" />
+                <marker date="1360040381000" expanded="true" signature="686:701" placeholder="div.horn-line-4" />
+                <marker date="1360040381000" expanded="true" signature="710:725" placeholder="div.horn-line-5" />
+                <marker date="1360040381000" expanded="true" signature="732:859" placeholder="div.tail-offset" />
+                <marker date="1360040381000" expanded="true" signature="758:775" placeholder="div.tail-offset-1" />
+                <marker date="1360040381000" expanded="true" signature="786:803" placeholder="div.tail-offset-2" />
+                <marker date="1360040381000" expanded="true" signature="814:831" placeholder="div.tail-offset-3" />
+                <marker date="1360040381000" expanded="true" signature="842:859" placeholder="div.tail-offset-4" />
+                <marker date="1360040381000" expanded="true" signature="866:873" placeholder="div.eye" />
+                <marker date="1360040381000" expanded="true" signature="880:889" placeholder="div.mouth" />
+                <marker date="1360040381000" expanded="true" signature="896:909" placeholder="div.flipper-1" />
+                <marker date="1360040381000" expanded="true" signature="916:929" placeholder="div.flipper-2" />
+                <marker date="1360040381000" expanded="true" signature="936:950" placeholder="div.eye-offset" />
+                <marker date="1360040381000" expanded="true" signature="957:974" placeholder="div.tail-offset-5" />
+                <marker date="1360040381000" expanded="true" signature="981:996" placeholder="div.body-adjust" />
+                <marker date="1360040381000" expanded="true" signature="1003:1020" placeholder="div.body-adjust-2" />
+                <marker date="1360040381000" expanded="true" signature="1027:1044" placeholder="div.body-adjust-3" />
+                <marker date="1360040381000" expanded="true" signature="1051:1068" placeholder="div.body-adjust-4" />
+                <marker date="1360040381000" expanded="true" signature="1073:1279" placeholder="div.surface" />
+                <marker date="1360040381000" expanded="true" signature="1091:1099" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1106:1114" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1121:1129" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1136:1144" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1151:1159" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1166:1174" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1181:1189" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1196:1204" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1211:1219" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1226:1234" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1241:1249" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1256:1264" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1271:1279" placeholder="div.wave" />
+                <marker date="1360040381000" expanded="true" signature="1284:1297" placeholder="div.surface-2" />
+                <marker date="1360040381000" expanded="true" signature="1302:1319" placeholder="div.logo Wintria" />
+                <marker date="1360040381000" expanded="true" signature="1324:1334" placeholder="div.bubble" />
+                <marker date="1360040381000" expanded="true" signature="1339:1349" placeholder="div.bubble" />
+                <marker date="1360040381000" expanded="true" signature="1354:1376" placeholder="div.bubble" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/icon.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="18" selection-start="255" selection-end="255" vertical-scroll-proportion="0.22613065">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.slim" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -76,37 +157,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wintria.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/wintria.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="18" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simpleng.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/simpleng.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="13" selection-start="753" selection-end="753" vertical-scroll-proportion="-10.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="21" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seren.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/seren.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="43" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
+            <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-18.958334">
               <folding />
             </state>
           </provider>
@@ -125,10 +179,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/stylesheets/squarewhale.css" />
-        <option value="$PROJECT_DIR$/views/icons.slim" />
         <option value="$PROJECT_DIR$/public/stylesheets/social_foundicons.css" />
-        <option value="$PROJECT_DIR$/views/layout.slim" />
         <option value="$PROJECT_DIR$/views/misc.slim" />
         <option value="$PROJECT_DIR$/main.rb" />
         <option value="$PROJECT_DIR$/views/wintria.slim" />
@@ -141,6 +192,9 @@
         <option value="$PROJECT_DIR$/views/simpleng.slim" />
         <option value="$PROJECT_DIR$/views/skills.slim" />
         <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
+        <option value="$PROJECT_DIR$/views/layout.slim" />
+        <option value="$PROJECT_DIR$/views/icons.slim" />
+        <option value="$PROJECT_DIR$/public/javascripts/icon.js" />
       </list>
     </option>
   </component>
@@ -282,8 +336,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
     <property name="last_opened_file_path" value="$USER_HOME$/wintria/wint-custom-37.js" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -374,6 +432,24 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="" />
@@ -458,23 +534,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/social_foundicons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="665" selection-end="665" vertical-scroll-proportion="0.4078795" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/icons.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="23" selection-start="106" selection-end="117" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/wintria.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/seren.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="43" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
@@ -485,13 +544,6 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="27" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="21" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/read.slim">
@@ -530,16 +582,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/simpleng.slim">
+    <entry file="file://$PROJECT_DIR$/views/misc.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="753" selection-end="753" vertical-scroll-proportion="-10.625">
+        <state line="2" column="16" selection-start="29" selection-end="46" vertical-scroll-proportion="-1.25">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/misc.slim">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="29" selection-end="46" vertical-scroll-proportion="-1.25">
+        <state line="166" column="0" selection-start="2589" selection-end="2589" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1360039796000" expanded="true" signature="2607:2678" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-18.958334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/simpleng.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="753" selection-end="753" vertical-scroll-proportion="0.4450262">
           <folding />
         </state>
       </provider>
@@ -551,9 +626,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
+    <entry file="file://$PROJECT_DIR$/views/icons.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="122" column="54" selection-start="1787" selection-end="1787" vertical-scroll-proportion="0.48241207">
+        <state line="9" column="30" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
+          <folding>
+            <marker date="1360040381000" expanded="true" signature="1:1376" placeholder="div#impress" />
+            <marker date="1360040381000" expanded="true" signature="17:275" placeholder="div.row.center.step.slide data-x=&quot;1000&quot; data-y=&quot;1000&quot;" />
+            <marker date="1360040381000" expanded="true" signature="141:202" placeholder="a.six.columns href=&quot;#lightsaber&quot; Lightsaber" />
+            <marker date="1360040381000" expanded="true" signature="207:275" placeholder="a.six.columns href=&quot;#the-whale&quot; The Narwhal of Wintria" />
+            <marker date="1360040381000" expanded="true" signature="278:487" placeholder="div.row.lightsaber#lightsaber.step.slide  data-x=&quot;-1000&quot; data-y=&quot;4000&quot;" />
+            <marker date="1360040381000" expanded="true" signature="353:487" placeholder="div.sword.columns" />
+            <marker date="1360040381000" expanded="true" signature="377:385" placeholder="div.main" />
+            <marker date="1360040381000" expanded="true" signature="392:402" placeholder="div.handle" />
+            <marker date="1360040381000" expanded="true" signature="409:425" placeholder="div.handle-cover" />
+            <marker date="1360040381000" expanded="true" signature="432:441" placeholder="div.blade" />
+            <marker date="1360040381000" expanded="true" signature="448:464" placeholder="div.switch-white" />
+            <marker date="1360040381000" expanded="true" signature="471:487" placeholder="div.switch-black" />
+            <marker date="1360040381000" expanded="true" signature="491:1376" placeholder="div#the-whale.step.slide data-x=&quot;3000&quot; data-y=&quot;2000&quot;" />
+            <marker date="1360040381000" expanded="true" signature="548:1068" placeholder="div.portrait" />
+            <marker date="1360040381000" expanded="true" signature="567:575" placeholder="div.body" />
+            <marker date="1360040381000" expanded="true" signature="582:590" placeholder="div.tail" />
+            <marker date="1360040381000" expanded="true" signature="597:725" placeholder="div.horn" />
+            <marker date="1360040381000" expanded="true" signature="614:629" placeholder="div.horn-line-1" />
+            <marker date="1360040381000" expanded="true" signature="638:653" placeholder="div.horn-line-2" />
+            <marker date="1360040381000" expanded="true" signature="662:677" placeholder="div.horn-line-3" />
+            <marker date="1360040381000" expanded="true" signature="686:701" placeholder="div.horn-line-4" />
+            <marker date="1360040381000" expanded="true" signature="710:725" placeholder="div.horn-line-5" />
+            <marker date="1360040381000" expanded="true" signature="732:859" placeholder="div.tail-offset" />
+            <marker date="1360040381000" expanded="true" signature="758:775" placeholder="div.tail-offset-1" />
+            <marker date="1360040381000" expanded="true" signature="786:803" placeholder="div.tail-offset-2" />
+            <marker date="1360040381000" expanded="true" signature="814:831" placeholder="div.tail-offset-3" />
+            <marker date="1360040381000" expanded="true" signature="842:859" placeholder="div.tail-offset-4" />
+            <marker date="1360040381000" expanded="true" signature="866:873" placeholder="div.eye" />
+            <marker date="1360040381000" expanded="true" signature="880:889" placeholder="div.mouth" />
+            <marker date="1360040381000" expanded="true" signature="896:909" placeholder="div.flipper-1" />
+            <marker date="1360040381000" expanded="true" signature="916:929" placeholder="div.flipper-2" />
+            <marker date="1360040381000" expanded="true" signature="936:950" placeholder="div.eye-offset" />
+            <marker date="1360040381000" expanded="true" signature="957:974" placeholder="div.tail-offset-5" />
+            <marker date="1360040381000" expanded="true" signature="981:996" placeholder="div.body-adjust" />
+            <marker date="1360040381000" expanded="true" signature="1003:1020" placeholder="div.body-adjust-2" />
+            <marker date="1360040381000" expanded="true" signature="1027:1044" placeholder="div.body-adjust-3" />
+            <marker date="1360040381000" expanded="true" signature="1051:1068" placeholder="div.body-adjust-4" />
+            <marker date="1360040381000" expanded="true" signature="1073:1279" placeholder="div.surface" />
+            <marker date="1360040381000" expanded="true" signature="1091:1099" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1106:1114" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1121:1129" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1136:1144" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1151:1159" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1166:1174" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1181:1189" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1196:1204" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1211:1219" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1226:1234" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1241:1249" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1256:1264" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1271:1279" placeholder="div.wave" />
+            <marker date="1360040381000" expanded="true" signature="1284:1297" placeholder="div.surface-2" />
+            <marker date="1360040381000" expanded="true" signature="1302:1319" placeholder="div.logo Wintria" />
+            <marker date="1360040381000" expanded="true" signature="1324:1334" placeholder="div.bubble" />
+            <marker date="1360040381000" expanded="true" signature="1339:1349" placeholder="div.bubble" />
+            <marker date="1360040381000" expanded="true" signature="1354:1376" placeholder="div.bubble" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/icon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="255" selection-end="255" vertical-scroll-proportion="0.22613065">
           <folding />
         </state>
       </provider>
