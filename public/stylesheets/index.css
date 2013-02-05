@@ -120,6 +120,8 @@
     
   li a:hover {text-decoration:underline;}
 
+  #more-section-one li a:hover { text-decoration:none; }
+
   .misc-button {
     margin-top: 80px;
     font-size: 35px;
