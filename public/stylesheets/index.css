@@ -193,7 +193,7 @@ li a:hover {text-decoration:underline;}
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   body {
-    .me-button; padding-left: 35px; /* Safari only */
+    .me-button; margin-left: 35px; /* Safari only */
   }
 }
 
