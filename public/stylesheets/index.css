@@ -191,6 +191,10 @@ li a:hover {text-decoration:underline;}
     font-size: 30px;
 }
 
-  .sub-nav { margin-left: 20px; }
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  body {
+    color:green; /* Safari only */
+  }
+}
 
 
