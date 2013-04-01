@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/icon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/index.css" afterPath="$PROJECT_DIR$/public/stylesheets/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/icons.slim" afterPath="$PROJECT_DIR$/views/icons.slim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.slim" afterPath="$PROJECT_DIR$/views/layout.slim" />
     </list>
     <ignored path="jtme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,19 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="misc.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/misc.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="16" selection-start="29" selection-end="46" vertical-scroll-proportion="-1.25">
+            <state line="2" column="16" selection-start="29" selection-end="46" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,9 +54,8 @@
       <file leaf-file-name="icons.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/icons.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="30" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
+            <state line="9" column="30" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1360040381000" expanded="true" signature="1:1376" placeholder="div#impress" />
                 <marker date="1360040381000" expanded="true" signature="17:275" placeholder="div.row.center.step.slide data-x=&quot;1000&quot; data-y=&quot;1000&quot;" />
                 <marker date="1360040381000" expanded="true" signature="141:202" placeholder="a.six.columns href=&quot;#lightsaber&quot; Lightsaber" />
                 <marker date="1360040381000" expanded="true" signature="207:275" placeholder="a.six.columns href=&quot;#the-whale&quot; The Narwhal of Wintria" />
@@ -81,7 +67,6 @@
                 <marker date="1360040381000" expanded="true" signature="432:441" placeholder="div.blade" />
                 <marker date="1360040381000" expanded="true" signature="448:464" placeholder="div.switch-white" />
                 <marker date="1360040381000" expanded="true" signature="471:487" placeholder="div.switch-black" />
-                <marker date="1360040381000" expanded="true" signature="491:1376" placeholder="div#the-whale.step.slide data-x=&quot;3000&quot; data-y=&quot;2000&quot;" />
                 <marker date="1360040381000" expanded="true" signature="548:1068" placeholder="div.portrait" />
                 <marker date="1360040381000" expanded="true" signature="567:575" placeholder="div.body" />
                 <marker date="1360040381000" expanded="true" signature="582:590" placeholder="div.tail" />
@@ -124,7 +109,6 @@
                 <marker date="1360040381000" expanded="true" signature="1302:1319" placeholder="div.logo Wintria" />
                 <marker date="1360040381000" expanded="true" signature="1324:1334" placeholder="div.bubble" />
                 <marker date="1360040381000" expanded="true" signature="1339:1349" placeholder="div.bubble" />
-                <marker date="1360040381000" expanded="true" signature="1354:1376" placeholder="div.bubble" />
               </folding>
             </state>
           </provider>
@@ -133,7 +117,7 @@
       <file leaf-file-name="icon.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/javascripts/icon.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="18" selection-start="255" selection-end="255" vertical-scroll-proportion="0.22613065">
+            <state line="8" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.20100503">
               <folding />
             </state>
           </provider>
@@ -142,7 +126,7 @@
       <file leaf-file-name="index.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -151,7 +135,16 @@
       <file leaf-file-name="skills.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/skills.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="21" selection-start="745" selection-end="745" vertical-scroll-proportion="-11.375">
+            <state line="27" column="21" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -160,7 +153,7 @@
       <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-18.958334">
+            <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -230,6 +223,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,7 +326,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,8 +333,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
     <property name="last_opened_file_path" value="$USER_HOME$/wintria/wint-custom-37.js" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -466,7 +459,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24978541" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31894484" sideWeight="0.96902657" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20303757" sideWeight="0.96902657" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -536,9 +529,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/views/seren.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="43" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -548,9 +539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/read.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="0" selection-start="5409" selection-end="5409" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="152" column="0" selection-start="5409" selection-end="5409" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/lightsaber.css">
@@ -584,7 +573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/misc.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="29" selection-end="46" vertical-scroll-proportion="-1.25">
+        <state line="2" column="16" selection-start="29" selection-end="46" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -607,30 +596,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="-18.958334">
+        <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/simpleng.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="753" selection-end="753" vertical-scroll-proportion="0.4450262">
-          <folding />
-        </state>
+        <state line="17" column="13" selection-start="753" selection-end="753" vertical-scroll-proportion="0.4450262" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/skills.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="21" selection-start="745" selection-end="745" vertical-scroll-proportion="-11.375">
+        <state line="27" column="21" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/icons.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="30" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.5">
+        <state line="9" column="30" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1360040381000" expanded="true" signature="1:1376" placeholder="div#impress" />
             <marker date="1360040381000" expanded="true" signature="17:275" placeholder="div.row.center.step.slide data-x=&quot;1000&quot; data-y=&quot;1000&quot;" />
             <marker date="1360040381000" expanded="true" signature="141:202" placeholder="a.six.columns href=&quot;#lightsaber&quot; Lightsaber" />
             <marker date="1360040381000" expanded="true" signature="207:275" placeholder="a.six.columns href=&quot;#the-whale&quot; The Narwhal of Wintria" />
@@ -642,7 +628,6 @@
             <marker date="1360040381000" expanded="true" signature="432:441" placeholder="div.blade" />
             <marker date="1360040381000" expanded="true" signature="448:464" placeholder="div.switch-white" />
             <marker date="1360040381000" expanded="true" signature="471:487" placeholder="div.switch-black" />
-            <marker date="1360040381000" expanded="true" signature="491:1376" placeholder="div#the-whale.step.slide data-x=&quot;3000&quot; data-y=&quot;2000&quot;" />
             <marker date="1360040381000" expanded="true" signature="548:1068" placeholder="div.portrait" />
             <marker date="1360040381000" expanded="true" signature="567:575" placeholder="div.body" />
             <marker date="1360040381000" expanded="true" signature="582:590" placeholder="div.tail" />
@@ -685,14 +670,13 @@
             <marker date="1360040381000" expanded="true" signature="1302:1319" placeholder="div.logo Wintria" />
             <marker date="1360040381000" expanded="true" signature="1324:1334" placeholder="div.bubble" />
             <marker date="1360040381000" expanded="true" signature="1339:1349" placeholder="div.bubble" />
-            <marker date="1360040381000" expanded="true" signature="1354:1376" placeholder="div.bubble" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/icon.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="18" selection-start="255" selection-end="255" vertical-scroll-proportion="0.22613065">
+        <state line="8" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.20100503">
           <folding />
         </state>
       </provider>
