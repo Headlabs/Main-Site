@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/index.css" afterPath="$PROJECT_DIR$/public/stylesheets/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.slim" afterPath="$PROJECT_DIR$/views/layout.slim" />
     </list>
     <ignored path="jtme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,19 +21,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="20" selection-start="1479" selection-end="1479" vertical-scroll-proportion="-9.916667">
+            <state line="34" column="21" selection-start="1491" selection-end="1491" vertical-scroll-proportion="0.43396226">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="195" column="22" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.9032258">
+            <state line="195" column="22" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,8 +75,8 @@
         <option value="$PROJECT_DIR$/views/skills.slim" />
         <option value="$PROJECT_DIR$/views/icons.slim" />
         <option value="$PROJECT_DIR$/public/javascripts/icon.js" />
-        <option value="$PROJECT_DIR$/views/layout.slim" />
         <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
+        <option value="$PROJECT_DIR$/views/layout.slim" />
       </list>
     </option>
   </component>
@@ -564,16 +564,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.slim">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="20" selection-start="1479" selection-end="1479" vertical-scroll-proportion="-9.916667">
+        <state line="195" column="22" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
+    <entry file="file://$PROJECT_DIR$/views/layout.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="22" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.9032258">
+        <state line="34" column="21" selection-start="1491" selection-end="1491" vertical-scroll-proportion="0.43396226">
           <folding />
         </state>
       </provider>
