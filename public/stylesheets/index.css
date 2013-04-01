@@ -186,14 +186,14 @@ li a:hover {text-decoration:underline;}
     color: white;
     border-radius: 5px;
 }
-
+.filler {color:#964b4b;}
 .icon-medium-size {
     font-size: 30px;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   body {
-    .filler {color:none;} /* Safari only */
+    .filler {color:#964b4b;} /* Safari only */
   }
 }
 
