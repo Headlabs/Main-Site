@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.slim" afterPath="$PROJECT_DIR$/views/layout.slim" />
     </list>
     <ignored path="jtme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icon.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="icon.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/javascripts/icon.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.20100503">
+            <state line="8" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,10 +149,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
+            <state line="32" column="20" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.35714287">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -185,9 +193,9 @@
         <option value="$PROJECT_DIR$/views/simpleng.slim" />
         <option value="$PROJECT_DIR$/views/skills.slim" />
         <option value="$PROJECT_DIR$/public/stylesheets/index.css" />
-        <option value="$PROJECT_DIR$/views/layout.slim" />
         <option value="$PROJECT_DIR$/views/icons.slim" />
         <option value="$PROJECT_DIR$/public/javascripts/icon.js" />
+        <option value="$PROJECT_DIR$/views/layout.slim" />
       </list>
     </option>
   </component>
@@ -527,11 +535,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/seren.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="27" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" />
@@ -590,13 +593,6 @@
     <entry file="file://$PROJECT_DIR$/views/index.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -676,7 +672,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/icon.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.20100503">
+        <state line="8" column="0" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="20" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.35714287">
           <folding />
         </state>
       </provider>
