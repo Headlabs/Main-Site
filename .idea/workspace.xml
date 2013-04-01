@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68bf32b1-7aa1-4d2c-9659-edda12b54acf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/index.css" afterPath="$PROJECT_DIR$/public/stylesheets/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.slim" afterPath="$PROJECT_DIR$/views/layout.slim" />
     </list>
     <ignored path="jtme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +25,7 @@
       <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="16" selection-start="1423" selection-end="1430" vertical-scroll-proportion="-9.291667">
+            <state line="33" column="20" selection-start="1479" selection-end="1479" vertical-scroll-proportion="-9.916667">
               <folding />
             </state>
           </provider>
@@ -33,7 +34,7 @@
       <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="1" selection-start="3088" selection-end="3088" vertical-scroll-proportion="0.9516129">
+            <state line="195" column="35" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.9032258">
               <folding />
             </state>
           </provider>
@@ -566,14 +567,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="16" selection-start="1423" selection-end="1430" vertical-scroll-proportion="-9.291667">
+        <state line="33" column="20" selection-start="1479" selection-end="1479" vertical-scroll-proportion="-9.916667">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="1" selection-start="3088" selection-end="3088" vertical-scroll-proportion="0.9516129">
+        <state line="195" column="35" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.9032258">
           <folding />
         </state>
       </provider>
