@@ -193,7 +193,7 @@ li a:hover {text-decoration:underline;}
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   body {
-    .filler {color:#964b4b;} /* Safari only */
+    .filler {width: 110px !important;} /* Safari only */
   }
 }
 
