@@ -190,3 +190,8 @@ li a:hover {text-decoration:underline;}
 .icon-medium-size {
     font-size: 30px;
 }
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  .sub-nav { margin-left: 20px; }
+
+}
