@@ -120,7 +120,10 @@
 /* Nav Bar */
 /* ====== */
 
-  dd a { 
+
+  .nav-button-box {
+    margin-right: 10px;
+
     padding-left: 29px;
     padding-right: 29px;
     font-weight:bold;
@@ -136,7 +139,7 @@
   }
 
   /* Continuation of blur effect */
-  dd:hover a { 
+  .nav-button-box:hover {
       background: none repeat scroll 0 0 #964b4b;
       color: #FFFFFF;
       cursor: pointer;
@@ -187,13 +190,12 @@ li a:hover {text-decoration:underline;}
     border-radius: 5px;
 }
 .filler {color:#964b4b;}
+
 .icon-medium-size {
     font-size: 30px;
 }
 
-.nav-button-box {
-  margin-right: 10px;
-}
+
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   body {
