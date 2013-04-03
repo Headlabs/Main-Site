@@ -191,6 +191,10 @@ li a:hover {text-decoration:underline;}
     font-size: 30px;
 }
 
+.nav-button-box {
+  margin-right: 10px;
+}
+
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   body {
     .filler {width: 110px !important;} /* Safari only */
