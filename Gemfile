@@ -9,3 +9,5 @@ group :development,:test do
   gem "rack-test", "~> 0.6.2"
   gem "shoulda-matchers", "~> 2.4.0"
 end
+
+gem "sass", "~> 3.2.14"
