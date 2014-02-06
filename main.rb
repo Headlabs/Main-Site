@@ -1,6 +1,7 @@
 # Route Sections
 # ==============
 
+
 get '/' do
-  slim :index
+  "Hello World"
 end
