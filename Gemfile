@@ -22,6 +22,9 @@ group :development,:test do
   # spork gems
   gem 'guard-spork', '1.5.1'
   gem 'spork', '0.9.2'
+
+  gem "jasmine", "~> 2.0.0"
+
 end
 
 group :test do
