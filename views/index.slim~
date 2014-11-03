@@ -1,8 +1,1 @@
-div.row
-  div.six.columns.centered.center
-    p.lead.heavy.intro I'm an autodidact. One of those people who enjoys trying new things, failing, then learning all I can in the process. Click a button below to find out more about what I do.
-
-
-
-
-
+input type="text" x-webkit-speech=""

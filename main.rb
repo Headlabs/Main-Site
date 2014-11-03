@@ -3,5 +3,5 @@
 
 
 get '/' do
-  "Hello World"
+  slim :index
 end
