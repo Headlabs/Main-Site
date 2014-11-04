@@ -1,7 +1,18 @@
+
+
 # Route Sections
 # ==============
 
 
 get '/' do
-  "Hello World"
+  slim :index
+end
+
+get '/get_video' do
+  content_type :json
+  
+  puts "3" * 100
+  puts params.inspect
+  
+  { video_ids: Youtube.new(params[:search_term]).query }.to_json
 end

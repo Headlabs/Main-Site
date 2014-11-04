@@ -10,6 +10,10 @@ gem "activerecord", "~> 4.0.2"
 
 gem "sinatra-activerecord", "~> 1.2.3"
 
+gem 'google-api-client', '~> 0.7.1'
+
+gem 'trollop', '~> 2.0'
+
 group :development,:test do
   gem "rspec", "~> 2.14.1"
   gem "rack-test", "~> 0.6.2"

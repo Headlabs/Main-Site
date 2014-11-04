@@ -9,6 +9,8 @@ use Sass::Plugin::Rack
 
 require 'active_record'
 
+#set :port, 9494
+
 # Load configuration
 Dir["./app/config/**.rb"].each { |file| require file }
 
