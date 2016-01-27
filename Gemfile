@@ -10,8 +10,6 @@ gem "activerecord", "~> 4.0.2"
 
 gem "sinatra-activerecord", "~> 1.2.3"
 
-gem 'google-api-client', '~> 0.7.1'
-
 gem 'trollop', '~> 2.0'
 
 group :development,:test do
@@ -34,4 +32,3 @@ end
 group :test do
   gem "capybara", "~> 2.2.1"
 end
-
