@@ -1,0 +1,29 @@
+.demo-card-wide.mdl-card {
+  width: 583px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../assets/demos/welcome_card.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+
+#home-page {
+  h3:first-child {
+    margin-bottom: 5px;
+  }
+
+  h3:last-child {
+    margin-top: 5px;
+  }
+
+  .divider {
+    height: 1px;
+    border-bottom: solid 1px green;
+    width: 70%;
+    margin-left: 15%;
+  }
+}

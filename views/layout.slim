@@ -3,14 +3,16 @@ html
   head
     meta charset="utf-8"
 
-    - ['main'].each do |file_name|
+    - ['main', 'google-material'].each do |file_name|
       link href="/stylesheets/#{file_name}.css" media="all" rel="stylesheet"
-
+    link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css"
+    link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"
     /[if lt IE 9]
       script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
   body
     == yield
 
+    script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"
 
     - ['main.js'].each do |file_name|
       script src="/javascripts/#{file_name}"
