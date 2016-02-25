@@ -1,16 +1,32 @@
 doctype html
 html
   head
+    meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    meta http-equiv="x-ua-compatible" content="ie=edge"
     meta charset="utf-8"
+    script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"
 
-    - ['main', 'google-material'].each do |file_name|
+    link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/css/tether.min.css"
+    script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"
+
+    link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css"  crossorigin="anonymous"
+    script src="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js"  crossorigin="anonymous"
+
+    - ['main', 'sticky-footer', 'misc'].each do |file_name|
       link href="/stylesheets/#{file_name}.css" media="all" rel="stylesheet"
+
     link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css"
     link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"
+
     /[if lt IE 9]
       script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"
+
   body
     == yield
+
+    footer.footer
+      .container-fluid
+        div Copyright 2016
 
     script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"
 
