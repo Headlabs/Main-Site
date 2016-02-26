@@ -1,11 +1,16 @@
-.logo {
+#logo {
   position: absolute;
   top: 15px;
   left: 15px;
   font-size: 40px;
 }
 
+#contact-us {
+  position: absolute;
+  bottom: 0px;
+}
 
 html, body {
   background-color: #fff7e9;
+  height: 100%;
 }

@@ -8,6 +8,6 @@ get '/' do
   slim :index
 end
 
-get '/about-us' do
-  slim :about_us
+get '/projects' do
+  slim :projects
 end
